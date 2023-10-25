@@ -4,35 +4,55 @@ This project was taken upon as a Capstone Project for my internship at TheMathCo
 
 In this project the following were accomplished - 
 
-1. Contextualized problem statement definition can be found in - Customer_Segmentation_VOX.pdf
+1. Contextualized problem statement definition can be found in
 
-2. Understood the dataset - Dataset Summary.xlsx
+         - Customer_Segmentation_VOX.pdf
 
-3. Generated data dictionary after cleaning the dataset - Data Dictionary - After Cleaning .xlsx
+2. Understood the dataset
 
-4. Peformed Factor Mapping and Hypothesis testing - Factor Mapping and Hypothesis.xlsx
+         - Dataset Summary.xlsx
 
-5. Consecutively performed EDA including Univariate and Bivariate analysis - Bivariate Analysis.xlsx
+3. Generated data dictionary after cleaning the dataset
 
-6. Conducted feature extraction - Feature_extraction_bivariates.xlsx
+         - Data Dictionary - After Cleaning .xlsx
 
-7. Checked correlation between variables - Correlation Matrix.xlsx
+4. Peformed Factor Mapping and Hypothesis testing
 
-8. Picked out highly correlated variables - Highly_corr_cols.xlsx
+         - Factor Mapping and Hypothesis.xlsx
 
-9. Checked viability of variables and selected the appropriate features  - VIF_Data.xlsx & VIF_Iterations.xlsx
+5. Consecutively performed EDA including Univariate and Bivariate analysis
+    
+          - Bivariate Analysis.xlsx
 
-10. Fit different models - Modelling Iterations.xlsx
+6. Conducted feature extraction
+
+          - Feature_extraction_bivariates.xlsx
+
+7. Checked correlation between variables
+
+          - Correlation Matrix.xlsx
+
+8. Picked out highly correlated variables
+
+          - Highly_corr_cols.xlsx
+
+9. Checked viability of variables and selected the appropriate features
+
+          - VIF_Data.xlsx & VIF_Iterations.xlsx
+
+10. Fit different models
+
+          - Modelling Iterations.xlsx
 
 11. The capstone project included presentations of different stages of the solution which were divided into three reviews : 
 
-      - Review 1 - Capstone Project - NAJM - Final Deck.pdf
-      - Review 2 - Capstone Project - NAJM - Final Deck.pdf
-      - Review 3 - Capstone Project - NAJM - Final Deck.pdf
+          - Review 1 - Capstone Project - NAJM - Final Deck.pdf
+          - Review 2 - Capstone Project - NAJM - Final Deck.pdf
+          - Review 3 - Capstone Project - NAJM - Final Deck.pdf
    
 12. Wrote a paper and submitted to the university for final year practicum (graded)
 
-      - Customer_Segmentation_PAPER.pdf 
+          - Customer_Segmentation_PAPER.pdf 
 
 
 
