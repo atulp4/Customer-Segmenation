@@ -44,13 +44,17 @@ In this project the following were accomplished -
 
           - Modelling Iterations.xlsx
 
-11. The capstone project included presentations of different stages of the solution which were divided into three reviews : 
+11. Code used for this project
+
+          - Segmentation_Code_Snippet.ipynb
+
+12. The capstone project included presentations of different stages of the solution which were divided into three reviews : 
 
           - Review 1 - Capstone Project - NAJM - Final Deck.pdf
           - Review 2 - Capstone Project - NAJM - Final Deck.pdf
           - Review 3 - Capstone Project - NAJM - Final Deck.pdf
    
-12. Wrote a paper and submitted to the university for final year practicum (graded)
+13. Wrote a paper and submitted to the university for final year practicum (graded)
 
           - Customer_Segmentation_PAPER.pdf 
 
