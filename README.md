@@ -26,11 +26,11 @@ In this project the following were accomplished -
 
 11. The capstone project included presentations of different stages of the solution which were divided into three reviews : 
 
-      - Review 1 - Capstone Project - NAJM - Final Deck.pptx
+      - Review 1 - Capstone Project - NAJM - Final Deck.pdf
       - Review 2 - Capstone Project - NAJM - Final Deck.pdf
-      - Review 3 - Capstone Project - NAJM - Final Deck.pptx
+      - Review 3 - Capstone Project - NAJM - Final Deck.pdf
    
-12. Wrote a paper and submitted to the universsity for my final year practicum (graded)
+12. Wrote a paper and submitted to the university for final year practicum (graded)
 
       - Customer_Segmentation_PAPER.pdf 
 
